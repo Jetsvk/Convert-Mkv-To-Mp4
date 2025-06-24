@@ -17,7 +17,7 @@ A simple batch script that converts `.mkv` video files to `.mp4` format using FF
 
 3. **Prepare Your Files**
    - Move `convert.bat` into the folder that contains your `.mkv` files.
-   - [!] Edit the script to match the folder location where your .mkv files are stored.
+  [!] - Edit the script to match the folder location where your .mkv files are stored.
 
 4. **You're Ready!**
    - Double-click the batch file or run it in Command Prompt to start the conversion.
