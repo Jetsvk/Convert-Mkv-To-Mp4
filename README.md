@@ -26,4 +26,4 @@ A simple batch script that converts `.mkv` video files to `.mp4` format using FF
 > FFmpeg must be properly installed and accessible via command line for the script to work.
 
 ### 📚 Documentation
-- https://www.youtube.com/watch?v=N6SaMYi9Gus
+- https://www.youtube.com/watch?v=uiHXP-DgYZw
